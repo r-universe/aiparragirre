@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "svyVarSel"]
 	path = svyVarSel
-	url = https://github.com/cran/svyVarSel
+	url = https://github.com/aiparragirre/svyvarsel
