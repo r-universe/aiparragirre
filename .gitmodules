@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "svyROC"]
 	path = svyROC
-	url = https://github.com/cran/svyROC
+	url = https://github.com/aiparragirre/svyroc
 [submodule "svyVarSel"]
 	path = svyVarSel
 	url = https://github.com/aiparragirre/svyvarsel
